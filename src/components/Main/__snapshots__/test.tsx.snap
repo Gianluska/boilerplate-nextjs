@@ -2,7 +2,6 @@
 
 exports[`<Main /> should render the heading 1`] = `
 .c0 {
-  background-color: #06092b;
   color: #ffffff;
   width: 100%;
   height: 100%;
@@ -46,6 +45,7 @@ exports[`<Main /> should render the heading 1`] = `
 
 <main
   class="c0"
+  style="background-color: rgb(6, 9, 43);"
 >
   <img
     alt="Imagem de um átomo e React Avançado escrito ao lado."
