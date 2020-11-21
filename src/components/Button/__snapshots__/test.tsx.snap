@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render the heading 1`] = `
+<main
+  class="styles__Wrapper-sc-1oc9oxe-0"
+>
+  <h1>
+    Button
+  </h1>
+</main>
+`;
